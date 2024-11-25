@@ -8,10 +8,10 @@ Hi, I'm Krushna Chandra Nayak, an aspiring data analyst passionate about turning
 - 💻 **Skills**: Python 🐍, SQL 💾, Power BI 📊, Excel Power Query 📈, Pandas 🐼
 - 🚀 **Current Projects**: Analysis and visualization of stock data for top fast-food companies using Power BI and SQL.
 - 🎯 **Future Goals**: Dive deeper into machine learning 🤖 and advanced data modeling.
-📊 Featured Projects
-Project	Description	Tools
-Stock Data Analysis	Analyzed stock trends of top fast-food companies 🍔🍕	Python, SQL, Power BI
-Crime Data Visualization	Mapped crime trends across states using Python and Streamlit 🚨	Python, Streamlit, Pandas
+
+## 📁 Featured Projects
+1. **Stock Data Analysis** 📉 – Analyzed stock trends of top 10 fast-food companies 🍔🍕.
+2. **Crime Data Visualization** 🚨 – Mapped crime trends across states using Python and Streamlit.
 
 
 
