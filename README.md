@@ -3,8 +3,8 @@
 Hi, I'm Krushna Chandra Nayak, an aspiring data analyst passionate about turning data into actionable insights! This repository showcases my skills in data manipulation, visualization, and analysis using tools like Python, SQL, Excel, and Power BI.
 
 ## 👨‍💼 About Me
-- 🎓 **Education**: Passed 12th from Jawahar Navodaya Vidyalaya
-                   🎓 Graduated from Model Degree College with Botany Hons 🌿
+- 🎓 **Education**: Passed 12th from Jawahar Navodaya Vidyalaya ,
+                 🎓 Graduated from Model Degree College with Botany Hons 🌿
 - 💻 **Skills**: Python 🐍, SQL 💾, Power BI 📊, Excel Power Query 📈, Pandas 🐼
 - 🚀 **Current Projects**: Analysis and visualization of stock data for top fast-food companies using Power BI and SQL.
 - 🎯 **Future Goals**: Dive deeper into machine learning 🤖 and advanced data modeling.
