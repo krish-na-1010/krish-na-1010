@@ -14,7 +14,7 @@ Hi, I'm Krushna Chandra Nayak, an aspiring data analyst passionate about turning
 2. **Crime Data Visualization** 🚨 – Mapped crime trends across states using Python and Streamlit.
 
 ## 📷 Media
-![Krishna's Profile Photo](./profile-photo.jpg)
+![Krishna's Profile Photo]("C:/Users/krush/Downloads/resume_pic.png")
 
 
 ## 🌐 Connect with Me
