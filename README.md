@@ -18,7 +18,7 @@ Hi, I'm Krushna Chandra Nayak, an aspiring data analyst passionate about turning
 ### 🚀 **Group 1: Data Detective Team**
 We worked as a team to analyze data and uncover insights for better decision-making!
 
-| ![Group 1 Logo](project 1 logo.jpg) |
+| ![Group 1 Logo](https://github.com/krish-na-1010/krish-na-1010/blob/9a8e40620a885a9cd9411fa58cbdb4b4f316f33f/project%201%20logo.jpg) |
 |------------------------------------|
 | **Team Lead**: **Mohit Agarwal**|
 | **Members**: **Krushna** , **Lipika** , **Rishav**  |
