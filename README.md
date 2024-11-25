@@ -16,7 +16,7 @@ Hi, I'm Krushna Chandra Nayak, an aspiring data analyst passionate about turning
 
 
 ## 📷 Media
-![Krishna's Profile Photo]("C:/Users/krush/Downloads/resume_pic.png")
+![Krishna's Profile Photo]("./resume_pic.png")
 
 
 ## 🌐 Connect with Me
