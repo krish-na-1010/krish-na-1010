@@ -13,6 +13,34 @@ Hi, I'm Krushna Chandra Nayak, an aspiring data analyst passionate about turning
 1. **Stock Data Analysis** 📉 – Analyzed stock trends of top 10 fast-food companies 🍔🍕.
 2. **Crime Data Visualization** 🚨 – Mapped crime trends across states using Python and Streamlit.
 
+## 👥 Group Members and Logos
+
+### 🚀 **Group 1: Data Detective Team**
+We worked as a team to analyze data and uncover insights for better decision-making!
+
+| ![Group 1 Logo](./group1_logo.png) |
+|------------------------------------|
+| **Team Lead**: **Mohit Agarwal**|
+| **Members**: **Krushna** , **Lipika** , **Rishav**  |
+
+---
+
+### 🚀 **Group 2: Code Synthesis Team**
+This team focused on powerBI dynamic dashboard predictive analytics!
+
+| ![Group 2 Logo](./group2_logo.png) |
+|------------------------------------|
+| **Team Lead**: **Souvik samanta**        |
+| **Members**: **Krushna**, **Pritvi** |
+
+---
+
+### 💡 Team Vision
+Both teams shared a common goal: to use data to solve real-world problems and make an impact through analysis and predictive modeling.
+
+
+
+
 
 
 ## 📷 Media
