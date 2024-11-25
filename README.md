@@ -28,7 +28,7 @@ We worked as a team to analyze data and uncover insights for better decision-mak
 ### 🚀 **Group 2: Code Synthesis Team**
 This team focused on powerBI dynamic dashboard predictive analytics!
 
-| ![Group 2 Logo] (https://github.com/krish-na-1010/krish-na-1010/blob/553b0c103cbc47837c4ab6cf9cf69d1e6b8d0c29/p_2%20logo.jpg) |
+| ![Group 2 Logo](https://github.com/krish-na-1010/krish-na-1010/blob/e0813a3c3a8d791f355a166749149e7aa8de9cf0/p_2%20logo.jpg) |
 |------------------------------------|
 | **Team Lead**: **Souvik samanta**        |
 | **Members**: **Krushna**, **Pritvi** |
