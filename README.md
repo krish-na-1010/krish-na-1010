@@ -28,7 +28,7 @@ We worked as a team to analyze data and uncover insights for better decision-mak
 ### 🚀 **Group 2: Code Synthesis Team**
 This team focused on powerBI dynamic dashboard predictive analytics!
 
-| ![Group 2 Logo] (DALL·E 2024-11-12 20.49.13 - A dynamic, modern logo for a data analysis group project named 'Code Synthesis,' focusing on food companies and stock prices. The logo should feature .webp) |
+| ![Group 2 Logo] (https://github.com/krish-na-1010/krish-na-1010/blob/4775613cb8a27d93513c5c84a823b0a2ce53e34e/p_2%20logo.webp) |
 |------------------------------------|
 | **Team Lead**: **Souvik samanta**        |
 | **Members**: **Krushna**, **Pritvi** |
