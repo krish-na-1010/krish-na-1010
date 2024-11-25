@@ -1,4 +1,4 @@
-#Welcome to Krishna's Data Journey 🚀📊
+# Welcome to Krishna's Data Journey 🚀📊
 
 Hi, I'm Krushna Chandra Nayak, an aspiring data analyst passionate about turning data into actionable insights! This repository showcases my skills in data manipulation, visualization, and analysis using tools like Python, SQL, Excel, and Power BI.
 
