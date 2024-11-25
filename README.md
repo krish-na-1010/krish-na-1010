@@ -18,7 +18,7 @@ Hi, I'm Krushna Chandra Nayak, an aspiring data analyst passionate about turning
 ### 🚀 **Group 1: Data Detective Team**
 We worked as a team to analyze data and uncover insights for better decision-making!
 
-| ![Group 1 Logo](./group1_logo.png) |
+| ![Group 1 Logo](project 1 logo.jpg) |
 |------------------------------------|
 | **Team Lead**: **Mohit Agarwal**|
 | **Members**: **Krushna** , **Lipika** , **Rishav**  |
@@ -28,7 +28,7 @@ We worked as a team to analyze data and uncover insights for better decision-mak
 ### 🚀 **Group 2: Code Synthesis Team**
 This team focused on powerBI dynamic dashboard predictive analytics!
 
-| ![Group 2 Logo](DALL·E 2024-11-12 20.49.13 - A dynamic, modern logo for a data analysis group project named 'Code Synthesis,' focusing on food companies and stock prices. The logo should feature .webp) |
+| ![Group 2 Logo] (DALL·E 2024-11-12 20.49.13 - A dynamic, modern logo for a data analysis group project named 'Code Synthesis,' focusing on food companies and stock prices. The logo should feature .webp) |
 |------------------------------------|
 | **Team Lead**: **Souvik samanta**        |
 | **Members**: **Krushna**, **Pritvi** |
