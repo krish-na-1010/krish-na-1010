@@ -41,9 +41,6 @@ Both teams shared a common goal: to use data to solve real-world problems and ma
 
 
 
-## 📷 Media
-![Krishna's Profile Photo](resume_pic.png)
-
 
 ## 🌐 Connect with Me
 - 📧 Email: krishnaintoit@gmail.com
