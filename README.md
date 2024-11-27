@@ -18,7 +18,7 @@ Hi, I'm Krushna Chandra Nayak, an aspiring data analyst passionate about turning
 ### 🚀 **Group 1: Data Detective Team**
 We worked as a team to analyze data and uncover insights for better decision-making!
 
-| ![Group 1 Logo](https://github.com/krish-na-1010/krish-na-1010/blob/9a8e40620a885a9cd9411fa58cbdb4b4f316f33f/project%201%20logo.jpg) |
+| <img src="https://github.com/krish-na-1010/krish-na-1010/blob/9a8e40620a885a9cd9411fa58cbdb4b4f316f33f/project%201%20logo.jpg" width="200"/> |
 |------------------------------------|
 | **Team Lead**: **Mohit Agarwal**|
 | **Members**: **Krushna** , **Lipika** , **Rishav**  |
@@ -28,12 +28,10 @@ We worked as a team to analyze data and uncover insights for better decision-mak
 ### 🚀 **Group 2: Code Synthesis Team**
 This team focused on powerBI dynamic dashboard predictive analytics!
 
-| ![Group 2 Logo](https://github.com/krish-na-1010/krish-na-1010/blob/e0813a3c3a8d791f355a166749149e7aa8de9cf0/p_2%20logo.jpg) |
+| <img src="https://github.com/krish-na-1010/krish-na-1010/blob/e0813a3c3a8d791f355a166749149e7aa8de9cf0/p_2%20logo.jpg" width="200"/> |
 |------------------------------------|
 | **Team Lead**: **Souvik samanta**        |
 | **Members**: **Krushna**, **Pritvi** |
-
----
 
 ### 💡 Team Vision
 Both teams shared a common goal: to use data to solve real-world problems and make an impact through analysis and predictive modeling.
