@@ -78,13 +78,7 @@ Both teams shared a common goal: to use data to solve real-world problems and ma
 
 
 
-
-
-
-## 🌐 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)
-- 📂 [GitHub](https://github.com/krish-na-1010)
+---
 
 
 ### 📊 GitHub Stats
