@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Krishna, passionate about turning data into actionable insights. With a strong foundation in **data analysis** and **machine learning**, I aim to contribute meaningfully to solving real-world business problems through data. I’m also committed to constantly expanding my knowledge.
+I'm Krishna, passionate about transforming data into actionable insights. With a strong foundation in data analysis and machine learning, I aim to solve real-world business problems through data. I enjoy exploring and analyzing data to uncover patterns and trends, which help make informed business decisions. Always committed to expanding my knowledge, I am eager to stay updated with the latest trends and technologies in data science.
 
 
 - 🎓 **Education**: Passed 12th from Jawahar Navodaya Vidyalaya ,
