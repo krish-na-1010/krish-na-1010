@@ -12,6 +12,8 @@ Hi there! I'm **Krishna**, an enthusiastic **Data Analyst** with a deep interest
 - 🎓 **Education**:  
   - Jawahar Navodaya Vidyalaya (12th Class)  
   - **Model Degree College** (Botany Hons 🌿)
+  - **Data Pro** (PGDCA)
+  - **Masai School** (Data Analysis)
 
 - 🔍 **Learning**:  
   - Machine Learning (ML), Advanced Data Analytics, Artificial Intelligence (AI)
