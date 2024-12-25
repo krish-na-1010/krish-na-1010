@@ -27,7 +27,7 @@ I'm Krishna, passionate about turning data into actionable insights. With a stro
 ### 🛠️ Technical Skills
 
 #### **Languages & Tools**  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python Badge" />
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="SQL Badge" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="30" alt="Power BI Badge" />
@@ -82,7 +82,7 @@ Both teams shared a common goal: to use data to solve real-world problems and ma
 
 
 ## 🌐 Connect with Me
-- 📧 Email: krishnaintoit@gmail.com
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)
 - 📂 [GitHub](https://github.com/krish-na-1010)
 
@@ -119,6 +119,11 @@ Both teams shared a common goal: to use data to solve real-world problems and ma
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub Badge" />
   </a>
 </p>
+
+---
+### 📧 Contact Me
+
+- **Email:** krishnaintoit@gmail.com
 
 ---
 
