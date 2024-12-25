@@ -1,4 +1,4 @@
-# Krishna <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4592/wave_hello.gif?1536351075" width="40"/>
+# Welcome to Krishna's Data Journey 🚀📊 
 
 **Aspiring Data Analyst**  
 _Passionate about leveraging data to drive impactful insights and business solutions._
@@ -19,8 +19,8 @@ Hello! I’m Krishna, an aspiring **Data Analyst** with a keen interest in data-
 ### 🛠 **Technical Expertise** 🚀
 
 #### **Languages & Libraries**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=30)
-![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=30)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=40)
+![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=40)
 
 - **Data Science Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Web Scraping Tools**: BeautifulSoup, Selenium
@@ -66,16 +66,16 @@ _Visualized crime trends across various states using an interactive map in Strea
 
 ### 🔗 **Connect With Me** 🤝
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=30)](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=50)](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-5D5C61?style=for-the-badge)]()
 
 ---
 
 ### 📚 **Languages and Tools** 🛠️
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=30)
-![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=30)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge&logoWidth=30)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge&logoWidth=30)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=50)
+![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=50)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge&logoWidth=50)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge&logoWidth=50)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3B3B3B?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge&logoWidth=30)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge&logoWidth=50)
