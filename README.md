@@ -1,71 +1,81 @@
-# Krishna <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4592/wave_hello.gif?1536351075" width="30"/>
+# Krishna <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4592/wave_hello.gif?1536351075" width="40"/>
 
 **Aspiring Data Analyst**  
-Passionate about leveraging data to drive meaningful insights and solutions.
+_Passionate about leveraging data to drive impactful insights and business solutions._
 
 ---
 
-### 📜 **About Me**
+### 🧑‍💻 **About Me**
 
-Hi, I’m Krishna! I specialize in **Data Analysis** and love working with data to create impactful visualizations and models. My focus is on extracting insights from complex datasets and building predictive models to inform decision-making.
+Hello! I’m Krishna, an aspiring **Data Analyst** with a keen interest in data-driven decision-making and machine learning models. I enjoy exploring data, identifying trends, and solving complex problems through analysis and visualizations. My goal is to constantly improve my skills and stay updated with the latest advancements in data science.
 
 - 🌱 **Currently Learning:** Machine Learning, AI, and advanced Data Analytics techniques.
-- 🤝 **Open to Collaborating On:** Data Analysis, Machine Learning, and Data Visualization projects.
-- 🧠 **Skills:** Python, SQL, Power BI, Excel, Web Scraping.
-- 🏆 **Projects:** Real Estate Price Prediction, Stock Analysis, Crime Data Visualization.
+- 🤝 **Looking to Collaborate On:** Data Analysis, Machine Learning, and Data Visualization projects.
+- 🧠 **Key Skills:** Python, SQL, Power BI, Excel, Web Scraping.
+- 🏆 **Notable Projects:** Real Estate Price Prediction, Stock Analysis, Crime Data Visualization.
 
 ---
 
-### 🛠 **Technical Skills**
+### 🛠 **Technical Expertise** 🚀
 
-| **Category**                | **Skills**                                                                 |
-| ----------------------------| ---------------------------------------------------------------------------|
-| **Programming Languages**    | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=flat-square) |
-| **Data Science Libraries**   | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn                            |
-| **Web Scraping**             | BeautifulSoup, Selenium                                                     |
-| **Visualization Tools**      | Power BI, Excel (Power Query, Pivot Tables, Charts)                         |
-| **Database Management**      | SQL (Joins, CTE, Subqueries, Window Functions)                              |
-| **Statistics**               | Descriptive & Inferential Statistics, Hypothesis Testing                    |
-| **Machine Learning**         | Supervised Learning (Linear Regression, Random Forest), Unsupervised Learning (Clustering) |
+#### **Languages & Libraries**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=30)
+![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=30)
 
----
-
-### 💼 **Experience**
-
-- **Python for Data Science**: Skilled in using Pandas, NumPy, Matplotlib, Seaborn for data manipulation and visualization.
-- **Excel**: Expertise in using Pivot Tables, Advanced Formulas, and Power Query for data analysis.
-- **SQL**: Experienced in complex queries with CTEs, Subqueries, Window Functions.
-- **Web Scraping**: Proficient in extracting data from websites using **BeautifulSoup** and **Selenium**.
-- **Power BI**: Creating interactive dashboards for data visualization.
+- **Data Science Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Web Scraping Tools**: BeautifulSoup, Selenium
+- **Visualization Tools**: Power BI, Excel (Power Query, Pivot Tables, Charts)
+- **Database Management**: SQL (Joins, CTEs, Subqueries, Window Functions)
 
 ---
 
-### 📊 **Projects**
-  
-- **[Real Estate Price Prediction](#)**: Built a model to predict house prices using historical data.
-- **[Stock Analysis Dashboard](#)**: Analyzed stock trends for the top 10 fast-food companies.
-- **[Crime Data Visualization](#)**: Created a dashboard to visualize crime data across different states.
+### 📊 **Key Projects** 📝
+
+#### [Real Estate Price Prediction](#)
+_Predicted house prices based on historical data and market trends._ 🏡
+
+#### [Stock Analysis Dashboard](#)
+_Analyzed stock performance and created interactive dashboards for the top 10 fast-food companies._ 🍔📈
+
+#### [Crime Data Visualization](#)
+_Visualized crime trends across various states using an interactive map in Streamlit._ 🗺️
 
 ---
 
-### 📈 **GitHub Stats**
+### 🏆 **GitHub Stats** 📈
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-na-1010&show_icons=true&theme=radical)
-
----
-
-### 🔗 **Connect With Me**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-5D5C61?style=flat-square)](https://github.com/your-username)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krish-na-1010&show_icons=true&theme=radical" alt="Krishna's GitHub Stats" width="450"/>
+</p>
 
 ---
 
-### 📚 **Languages and Tools**
+### 📈 **Skills Overview** 🚀
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=flat-square)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)  
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)  
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3B3B3B?style=flat-square)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)
+| **Category**                | **Technologies**                                                                 |
+| ----------------------------| ------------------------------------------------------------------------------- |
+| **Programming Languages**    | Python, SQL                                                                    |
+| **Data Science Libraries**   | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn                                |
+| **Web Scraping**             | BeautifulSoup, Selenium                                                        |
+| **Visualization Tools**      | Power BI, Excel (Power Query, Pivot Tables, Charts)                            |
+| **Database Management**      | SQL (Joins, CTE, Subqueries, Window Functions)                                  |
+| **Statistics**               | Descriptive & Inferential Statistics, Hypothesis Testing                        |
+| **Machine Learning**         | Linear Regression, Random Forest, K-Nearest Neighbors, Clustering               |
+
+---
+
+### 🔗 **Connect With Me** 🤝
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=30)](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-5D5C61?style=for-the-badge)]()
+
+---
+
+### 📚 **Languages and Tools** 🛠️
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=30)
+![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=30)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge&logoWidth=30)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge&logoWidth=30)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3B3B3B?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge&logoWidth=30)
