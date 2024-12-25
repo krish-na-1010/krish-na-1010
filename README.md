@@ -1,4 +1,4 @@
-# Welcome to Krishna's Data Journey 🚀📊 <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4592/wave_hello.gif?1536351075" width="35px">
+# Welcome to Krishna's Data Journey 🚀📊
 
 **Aspiring Data Analyst**  
 *Exploring data to uncover hidden insights and drive impactful decisions.*
