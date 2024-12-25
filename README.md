@@ -1,48 +1,71 @@
-# Welcome to Krishna's Data Journey 🚀📊
+# Krishna <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4592/wave_hello.gif?1536351075" width="30"/>
 
-Hi, I'm Krushna Chandra Nayak, an aspiring data analyst passionate about turning data into actionable insights! This repository showcases my skills in data manipulation, visualization, and analysis using tools like Python, SQL, Excel, and Power BI.
-
-## 👨‍💼 About Me
-- 🎓 **Education**: Passed 12th from Jawahar Navodaya Vidyalaya ,
-                 🎓 Graduated from Model Degree College with Botany Hons 🌿
-- 💻 **Skills**: Python 🐍, SQL 💾, Power BI 📊, Excel Power Query 📈, Pandas 🐼
-- 🚀 **Current Projects**: Analysis and visualization of stock data for top fast-food companies using Power BI and SQL.
-- 🎯 **Future Goals**: Dive deeper into machine learning 🤖 and advanced data modeling.
-
-## 📁 Featured Projects
-1. **Stock Data Analysis** 📉 – Analyzed stock trends of top 10 fast-food companies 🍔🍕.
-2. **Crime Data Visualization** 🚨 – Mapped crime trends across states using Python and Streamlit.
-
-## 👥 Group Members and Logos
-
-### 🚀 **Group 1: Data Detective Team**
-We worked as a team to analyze data and uncover insights for better decision-making!
-
-| <img src="https://github.com/krish-na-1010/krish-na-1010/blob/9a8e40620a885a9cd9411fa58cbdb4b4f316f33f/project%201%20logo.jpg" width="200"/> |
-|------------------------------------|
-| **Team Lead**: **Mohit Agarwal**|
-| **Members**: **Krushna** , **Lipika** , **Rishav**  |
+**Aspiring Data Analyst**  
+Passionate about leveraging data to drive meaningful insights and solutions.
 
 ---
 
-### 🚀 **Group 2: Code Synthesis Team**
-This team focused on powerBI dynamic dashboard predictive analytics!
+### 📜 **About Me**
 
-| <img src="https://github.com/krish-na-1010/krish-na-1010/blob/e0813a3c3a8d791f355a166749149e7aa8de9cf0/p_2%20logo.jpg" width="200"/> |
-|------------------------------------|
-| **Team Lead**: **Souvik samanta**        |
-| **Members**: **Krushna**, **Pritvi** |
+Hi, I’m Krishna! I specialize in **Data Analysis** and love working with data to create impactful visualizations and models. My focus is on extracting insights from complex datasets and building predictive models to inform decision-making.
 
-### 💡 Team Vision
-Both teams shared a common goal: to use data to solve real-world problems and make an impact through analysis and predictive modeling.
+- 🌱 **Currently Learning:** Machine Learning, AI, and advanced Data Analytics techniques.
+- 🤝 **Open to Collaborating On:** Data Analysis, Machine Learning, and Data Visualization projects.
+- 🧠 **Skills:** Python, SQL, Power BI, Excel, Web Scraping.
+- 🏆 **Projects:** Real Estate Price Prediction, Stock Analysis, Crime Data Visualization.
 
+---
 
+### 🛠 **Technical Skills**
 
+| **Category**                | **Skills**                                                                 |
+| ----------------------------| ---------------------------------------------------------------------------|
+| **Programming Languages**    | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=flat-square) |
+| **Data Science Libraries**   | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn                            |
+| **Web Scraping**             | BeautifulSoup, Selenium                                                     |
+| **Visualization Tools**      | Power BI, Excel (Power Query, Pivot Tables, Charts)                         |
+| **Database Management**      | SQL (Joins, CTE, Subqueries, Window Functions)                              |
+| **Statistics**               | Descriptive & Inferential Statistics, Hypothesis Testing                    |
+| **Machine Learning**         | Supervised Learning (Linear Regression, Random Forest), Unsupervised Learning (Clustering) |
 
+---
 
+### 💼 **Experience**
 
+- **Python for Data Science**: Skilled in using Pandas, NumPy, Matplotlib, Seaborn for data manipulation and visualization.
+- **Excel**: Expertise in using Pivot Tables, Advanced Formulas, and Power Query for data analysis.
+- **SQL**: Experienced in complex queries with CTEs, Subqueries, Window Functions.
+- **Web Scraping**: Proficient in extracting data from websites using **BeautifulSoup** and **Selenium**.
+- **Power BI**: Creating interactive dashboards for data visualization.
 
-## 🌐 Connect with Me
-- 📧 Email: krishnaintoit@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)
-- 📂 [GitHub](https://github.com/krish-na-1010)
+---
+
+### 📊 **Projects**
+  
+- **[Real Estate Price Prediction](#)**: Built a model to predict house prices using historical data.
+- **[Stock Analysis Dashboard](#)**: Analyzed stock trends for the top 10 fast-food companies.
+- **[Crime Data Visualization](#)**: Created a dashboard to visualize crime data across different states.
+
+---
+
+### 📈 **GitHub Stats**
+
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+### 🔗 **Connect With Me**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-linkedin)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-5D5C61?style=flat-square)](https://github.com/your-username)
+
+---
+
+### 📚 **Languages and Tools**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+![SQL](https://img.shields.io/badge/-SQL-316192?logo=postgresql&logoColor=white&style=flat-square)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black&style=flat-square)  
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)  
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-3B3B3B?style=flat-square)  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)
