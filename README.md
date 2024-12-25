@@ -72,6 +72,15 @@ This team focused on powerBI dynamic dashboard predictive analytics!
 | **Team Lead**: **Souvik samanta**        |
 | **Members**: **Krushna**, **Pritvi** |
 
+---
+### 🚀 **Group 2: Code Synthesis Team**
+we focused on creating a dynamic Power BI dashboard for predictive analytics, providing insights into real estate trends and price forecasts
+
+| <img src="https://github.com/krish-na-1010/krish-na-1010/blob/e0813a3c3a8d791f355a166749149e7aa8de9cf0/p_2%20logo.jpg" width="200"/> |
+|------------------------------------|
+| **Team Lead**: **ashish **        |
+| **Members**: **Krushna**, **shivam** |
+
 ### 💡 Team Vision
 Both teams shared a common goal: to use data to solve real-world problems and make an impact through analysis and predictive modeling.
 
