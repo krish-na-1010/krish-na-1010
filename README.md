@@ -50,7 +50,7 @@ Hi, I’m Krishna! I specialize in **Data Analysis** and love working with data 
 
 ### 📈 **GitHub Stats**
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-na-1010&show_icons=true&theme=radical)
 
 ---
 
