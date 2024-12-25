@@ -25,19 +25,6 @@ Hi there! I'm **Krishna**, an enthusiastic **Data Analyst** with a deep interest
 
 ---
 
-### 🛠️ Technical Skills
-
-**Languages & Tools**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-3B3B3B?style=for-the-badge&logo=beautifulsoup&logoColor=white" height="30"/>
-</p>
-
----
-
 ### 🔑 Key Projects
 
 Here are some of the major projects I’ve worked on:
@@ -98,13 +85,31 @@ Our teams were driven by a common goal: to use data to solve real-world problems
 
 ---
 
-### 📧 Connect with Me
+### 💼 Connect With Me
 
-Feel free to reach out to me through any of the following platforms:
+<p align="left">
+  <a href="https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/krish-na-1010">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub Badge" />
+  </a>
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)
-- [GitHub](https://github.com/krish-na-1010)
 - ✉️ **Email**: krishnaintoit@gmail.com
+
+---
+
+
+### 🏆 Skills Overview
+
+| **Category**               | **Technologies**                                                                 |
+| ---------------------------| ------------------------------------------------------------------------------- |
+| **Programming Languages**   | Python 🐍, SQL 💾                                                                |
+| **Data Science Libraries**  | Pandas 🐼, NumPy 🔢, Matplotlib 📊, Scikit-learn 📚                              |
+| **Web Scraping**            | BeautifulSoup 🧑‍💻, Selenium 🕷️                                                |
+| **Data Visualization**      | Power BI 📊, Excel 📈 (Pivot Tables, Charts, Power Query)                       |
+| **Machine Learning**        | Linear Regression, Random Forest 🌳, K-Nearest Neighbors 🔎                      |
 
 ---
 
@@ -119,17 +124,3 @@ Feel free to reach out to me through any of the following platforms:
 </p>
 
 ---
-
-### 🏆 Skills Overview
-
-| **Category**               | **Technologies**                                                                 |
-| ---------------------------| ------------------------------------------------------------------------------- |
-| **Programming Languages**   | Python 🐍, SQL 💾                                                                |
-| **Data Science Libraries**  | Pandas 🐼, NumPy 🔢, Matplotlib 📊, Scikit-learn 📚                              |
-| **Web Scraping**            | BeautifulSoup 🧑‍💻, Selenium 🕷️                                                |
-| **Data Visualization**      | Power BI 📊, Excel 📈 (Pivot Tables, Charts, Power Query)                       |
-| **Machine Learning**        | Linear Regression, Random Forest 🌳, K-Nearest Neighbors 🔎                      |
-
----
-
-This layout is more comprehensive and visually engaging while focusing on the key aspects of your data analysis journey. It provides clear, easy-to-navigate sections for your skills, projects, group work, and contact information. The use of badges, headers, and concise explanations will help make your profile stand out!
