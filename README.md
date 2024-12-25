@@ -80,7 +80,7 @@ Here are some key projects that I’ve worked on:
   <a href="https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn Badge" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/krish-na-1010">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub Badge" />
   </a>
 </p>
