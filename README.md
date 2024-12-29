@@ -31,8 +31,8 @@ Hi there! I'm **Krishna**, an enthusiastic **Data Analyst** with a deep interest
 
 Here are some of the major projects I’ve worked on:
 
-- **[Real Estate Price Prediction](#)** 🏡  
-  A machine learning model predicting property prices based on historical data and market trends.
+- **[Real Estate Price Analysis](#)** 🏡  
+  A power BI dashboard Analysing property prices based on historical data and market trends in some major cities of India .
 
 - **[Stock Market Analysis](#)** 📈🍔  
   Interactive dashboard built using Power BI to track and analyze the performance of the top 10 fast-food company stocks.
