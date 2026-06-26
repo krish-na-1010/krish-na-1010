@@ -9,11 +9,14 @@
 
 Hi there! I'm **Krishna**, an enthusiastic **Data Analyst** with a deep interest in **Machine Learning**, **AI**, and **Data Science**. My passion lies in uncovering patterns, generating insights, and providing data-driven solutions to real-world problems. I enjoy working with a variety of tools like **Python**, **SQL**, **Power BI**, and **Excel** to transform raw data into meaningful reports and dashboards.
 
-- 🎓 **Education**:  
-  - Jawahar Navodaya Vidyalaya (12th Class)  
-  - **Model Degree College** (Botany Hons 🌿)
-  - **Data Pro** (PGDCA)
+- 🎓 **Education**:
+  - **Birla school of management** (MBA)
   - **Masai School** (Data Analysis)
+  - **Data Pro** (PGDCA)
+  - **Model Degree College** (Botany Hons 🌿)
+  - Jawahar Navodaya Vidyalaya (12th Class)  
+  
+
 
 - 🔍 **Learning**:  
   - Machine Learning (ML), Advanced Data Analytics, Artificial Intelligence (AI)
